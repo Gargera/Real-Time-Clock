@@ -6,6 +6,7 @@ Real Time Clock Project (RTC) based on ATmega32 MCU
 
 # Description
 Initially, The RTC starts counting from zero seconds until it reaches 23 hours, 59 minutes, and 59 seconds. 
+
 In the next second, it returns back to zero again, and so on indefinitely.
 
 # Features:
